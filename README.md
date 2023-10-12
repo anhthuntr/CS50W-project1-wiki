@@ -6,7 +6,6 @@ First install markdown dependency
 ```
 $ pip3 install markdown
 ```
-in which \<base> is the user-input base that you MUST include in the command-line, or else the program wouldn't run
 
 To run
 ```
